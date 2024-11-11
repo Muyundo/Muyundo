@@ -1,8 +1,8 @@
 👋 Hi, I'm Brian!
 **QA Engineer | Software Tester | Healthcare Tech Advocate**
 
- I’m a QA Engineer focused on building reliable, user-friendly software, especially in healthcare and digital health projects. I lead QA efforts to ensure these systems run smoothly and deliver   
- real value.
+   I’m a QA Engineer focused on building reliable, user-friendly software, especially in healthcare and digital health projects. I lead QA efforts to ensure these systems 
+   run smoothly and deliver real value.
 
 ### 🔑 Projects & Experience
 
