@@ -9,7 +9,7 @@ I’m passionate about delivering clean, reliable software and thrive in dynamic
 
 ---
 
-### 🔑 Projects & Experience
+### 🔑 Projects & Work Experience
 
 * **M-Gas Limited – QA Engineer (Current)**
   At M-Gas, I test and validate **Pay-As-You-Go (PAYG)** gas delivery solutions, ensuring seamless and accurate transactions for customers. I lead **User Acceptance Testing (UAT)**, use **Zephyr** and **Jira** for test management, and implement **Postman** and **Cypress** for API and automation testing. My work ensures product stability and a smooth user experience for critical energy services.
