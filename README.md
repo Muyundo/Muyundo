@@ -1,7 +1,11 @@
 👋 Hi, I'm Brian!
 **QA Engineer | Software Tester | Healthcare Tech Advocate**
 
-I’m a Quality Assurance Engineer with a strong focus on building reliable, user-friendly software — especially in healthcare and digital health ecosystems. My mission is to ensure every release meets high standards of quality, usability, and impact. I lead QA efforts across manual and automation teams, ensuring end-to-end validation of systems that matter.
+I am a results-oriented Quality Assurance Engineer with proven experience leading QA teams, designing comprehensive test strategies, and building robust automated testing frameworks using tools like Cypress and Postman.
+
+My background spans both health tech and energy sectors, where I’ve successfully applied manual and automated testing, API validation, bug lifecycle management, and CI/CD pipeline integration to ensure high-quality product delivery. I specialize in driving process improvements, creating clear Standard Operating Procedures (SOPs), and working closely with cross-functional teams in fast-paced Agile environments.
+
+I’m passionate about delivering clean, reliable software and thrive in dynamic spaces where quality makes the difference.
 
 ---
 
