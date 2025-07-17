@@ -1,40 +1,59 @@
 👋 Hi, I'm Brian!
 **QA Engineer | Software Tester | Healthcare Tech Advocate**
 
-   I’m a QA Engineer focused on building reliable, user-friendly software, especially in healthcare and digital health projects. I lead QA efforts to ensure these systems 
-   run smoothly and deliver real value.
+I’m a Quality Assurance Engineer with a strong focus on building reliable, user-friendly software — especially in healthcare and digital health ecosystems. My mission is to ensure every release meets high standards of quality, usability, and impact. I lead QA efforts across manual and automation teams, ensuring end-to-end validation of systems that matter.
+
+---
 
 ### 🔑 Projects & Experience
 
-- **OpenCHANJO (Lead QA)**  
-  I’m the lead QA on the **OpenCHANJO project** at IntelliSOFT Consulting, working on a solution designed to improve healthcare data accessibility and functionality. My role involves planning and implementing thorough testing processes to ensure data reliability and system stability.
+* **🔹 M-Gas Limited – QA Engineer (Current)**
+  At M-Gas, I test and validate **Pay-As-You-Go (PAYG)** gas delivery solutions, ensuring seamless and accurate transactions for customers. I lead **User Acceptance Testing (UAT)**, use **Zephyr** and **Jira** for test management, and implement **Postman** and **Cypress** for API and automation testing. My work ensures product stability and a smooth user experience for critical energy services.
 
-- **Cross-Border Digital Health Sustainability Project**  
-  This project focuses on creating a sustainable digital health infrastructure for cross-border patient referrals. My work here is aimed at testing and optimizing systems to support smooth patient referrals across regions.
+* **🔹 OpenCHANJO – Lead QA**
+  As Lead QA for the **OpenCHANJO project** at IntelliSOFT Consulting, I planned and implemented rigorous QA strategies for a national immunization registry. My work ensures healthcare data is accurate, accessible, and secure — supporting better decision-making in public health.
 
-- **NaCaRe (National Cancer Registry of Kenya)**  
-  Working on NaCaRe with IntelliSOFT, I help ensure that data collected in the national cancer registry is accurate, consistent, and supports cancer research and healthcare planning.
+* **🔹 Cross-Border Digital Health Sustainability Project**
+  I tested and optimized systems that enable **cross-border TB patient referrals** between Kenya and Uganda. The goal was to create a seamless referral experience while maintaining data integrity, privacy, and system reliability across regions.
 
-- **M-Pesa G2 Platform**  
-  At Safaricom, I tested and managed the quality assurance of the **M-Pesa G2 platform**, designing test cases and running tests to ensure platform stability. I used tools like Jira and ALM to keep everything on track and resolve issues quickly.
+* **🔹 NaCaRe (National Cancer Registry of Kenya)**
+  At IntelliSOFT, I worked to ensure the integrity of cancer-related data collected nationwide. I tested features that support cancer research, reporting, and healthcare planning, helping build a reliable foundation for the fight against cancer.
 
-- **AI-Driven Healthcare App**  
-  Collaborating on an **AI-powered app for patient care** aimed at chronic conditions and health tracking, I’m helping build a tool that empowers users to manage their health independently.
+* **🔹 M-Pesa G2 Platform – Safaricom**
+  At Safaricom, I developed test cases and performed regression, sanity, and unit testing for the **M-Pesa G2 platform**. I used **Jira** and **ALM** to manage test cycles and maintain platform stability — a critical requirement for Kenya’s most-used mobile money service.
 
-- **Quality Management at IintelliSOFT Consulting(ICL)**  
-  I’m developing a **quality management system** at ICL with metrics and automation for high-quality deliverables that meet project goals.
-  
+* **🔹 AI-Powered Healthcare App**
+  I’m part of a team building an **AI-driven healthcare app** that empowers users to track chronic illnesses and manage their health proactively. My role includes validating intelligent workflows and ensuring the app performs reliably and responsibly for real-world health use.
 
-🌱 Always Learning
-I’m currently enhancing my skills in **ISTQB standards**, **Cypress** for test automation, and CI/CD with GitHub Actions.
+* **🔹 Software Quality Management (SQM) at IntelliSOFT**
+  I led the development of a **deliverable-focused SQM framework**, introducing metrics and automation to monitor quality across project lifecycles. This framework helps maintain consistency and high standards across digital health implementations.
 
-💼 Skills
-- **Languages**: Python, JavaScript
-- **Tools**: Cypress, Jira, Docker, CI/CD
-- **Testing Types**: Regression, UAT, Sanity, and Load Testing
-- **Methodologies**: Agile, Scrum
+---
 
-🚀 What Drives Me
-I’m passionate about ensuring software performs reliably, especially in healthcare where it matters most. My goal is to contribute to projects that make a difference in people’s lives.
+### 🌱 Always Learning
 
-Let’s connect!
+I’m continuously improving my skills in:
+
+* **Cypress** for front-end and visual automation testing
+* **ISTQB Certification** for strong testing fundamentals
+* **CI/CD** pipelines using GitHub Actions
+* **Load Testing** using tools like Gatling and JMeter
+
+---
+
+### 💼 Skills
+
+* **Languages**: JavaScript, Python
+* **Tools**: Cypress, Postman, Docker, Zephyr, Jira, GitHub Actions
+* **Testing Types**: Regression, UAT, Sanity, Load, Visual Testing
+* **Methodologies**: Agile, Scrum, Shift-Left Testing
+
+---
+
+### 🚀 What Drives Me
+
+I’m passionate about delivering **stable, high-quality software**, especially in domains where lives and well-being are impacted — like healthcare and essential services. I believe in **preventing issues before they happen**, and making systems both **reliable and delightful** for users.
+
+---
+
+Let’s connect and talk about building systems that truly make a difference.
