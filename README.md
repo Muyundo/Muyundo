@@ -2,11 +2,9 @@
 
 **QA Engineer | Software Tester | Healthcare Tech Advocate**
 
-I am a results-oriented Quality Assurance Engineer with proven experience leading QA teams, designing comprehensive test strategies, and building robust automated testing frameworks using tools like Cypress and Postman.
+Quality Assurance Engineer with 4+ years of experience in testing enterprise SaaS platforms, mobile applications, and transaction systems across fintech and digital health domains. 
+Strong expertise in manual and automation testing using Cypress, Appium for Mobile Application Testing, API validation with Postman, and CI/CD pipeline integration. Experienced in Agile environments, defect lifecycle management using Jira, Xray, and Zephyr. Structured test planning, cross-browser testing, regression automation, User Aceptance Testing (UAT), and production issue reproduction.
 
-My background spans both health tech and energy sectors, where I’ve successfully applied manual and automated testing, API validation, bug lifecycle management, and CI/CD pipeline integration to ensure high-quality product delivery. I specialize in driving process improvements, creating clear Standard Operating Procedures (SOPs), and working closely with cross-functional teams in fast-paced Agile environments.
-
-I’m passionate about delivering clean, reliable software and thrive in dynamic spaces where quality makes the difference.
 
 ---
 
