@@ -1,6 +1,6 @@
 👋 Hi, I'm Brian!
 
-**QA Engineer | Software Tester | Healthcare Tech Advocate**
+**SQA Engineer | UI Testing | Cypress (Web), Appium (Mobile) Automation | Postman - API Testing | Manual | Exploratory Testing | UAT Experience.**
 
 Quality Assurance Engineer with 4+ years of experience in testing enterprise SaaS platforms, mobile applications, and transaction systems across fintech and digital health domains. 
 Strong expertise in manual and automation testing using Cypress, Appium for Mobile Application Testing, API validation with Postman, and CI/CD pipeline integration. Experienced in Agile environments, defect lifecycle management using Jira, Xray, and Zephyr. Structured test planning, cross-browser testing, regression automation, User Aceptance Testing (UAT), and production issue reproduction.
