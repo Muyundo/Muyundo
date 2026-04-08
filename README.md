@@ -10,7 +10,7 @@ Strong expertise in manual and automation testing using Cypress, Appium for Mobi
 
 ### 🔑 Projects & Work Experience
 
-* **M-Gas Limited – QA Engineer (Current)**
+* **M-Gas Limited – QA Engineer **
   At M-Gas, I test and validate **Pay-As-You-Go (PAYG)** gas delivery solutions, ensuring seamless and accurate transactions for customers. I lead **User Acceptance Testing (UAT)**, use **Zephyr** and **Jira** for test management, and implement **Postman** and **Cypress** for API and automation testing. My work ensures product stability and a smooth user experience for critical energy services.
 
 * **OpenCHANJO – Lead QA**
